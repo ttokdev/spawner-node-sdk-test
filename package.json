@@ -1,6 +1,6 @@
 {
-  "name": "spawner-node-sdk-test",
-  "version": "0.1.0",
+  "name": "test-spawnerai-node-sdk",
+  "version": "0.1.1",
   "description": "test module for node sdk",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
